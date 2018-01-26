@@ -6,12 +6,12 @@ using System.Numerics;
 using MetalWorker.Cryptography;
 using System.Threading.Tasks;
 
-namespace RSA_code
+namespace MetalWorker.Cryptography
 {
     /// <summary>
     /// Encrypts and decrypts strings with the block RSA
     /// </summary>
-    class StringRSA
+    public class StringRSA
     {
         private static readonly Encoding encoding = new UTF8Encoding();
 
