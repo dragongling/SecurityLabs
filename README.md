@@ -1,5 +1,8 @@
 # SecurityLabs
-Orenburg State University laboratory works for InfoSec
+[Orenburg State University](http://osu.ru/doc/666) laboratory works for InfoSec
+
+*[На русском](README.ru.md)*
+
 * MetalWorker.Cryptography - contains utility classes for
   * Various prime number tester classes
   * Random BigInteger generation
