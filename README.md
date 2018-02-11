@@ -9,3 +9,4 @@ Orenburg State University laboratory works for InfoSec
 * PrimalityTests - program for testing prime numbers with various tests
 * BlockRSA_GUI - GUI client for encrypting strings with block RSA
 * Digital Signature - GUI app for signing files with RSACryptoServiceProvider
+* AccessControlMatrix - CLI users to files access control matrix simulator
