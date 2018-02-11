@@ -1,7 +1,7 @@
 # SecurityLabs
 [Orenburg State University](http://osu.ru/doc/666) laboratory works for InfoSec
 
-*[На русском](README.ru.md)*
+*[РќР° СЂСѓСЃСЃРєРѕРј](README.ru.md)*
 
 * MetalWorker.Cryptography - contains utility classes for
   * Various prime number tester classes
