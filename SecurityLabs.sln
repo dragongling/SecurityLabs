@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digital Signature", "Digita
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessControlMatrix", "AccessControlMatrix\AccessControlMatrix.csproj", "{05ECBE51-1DF0-4AD1-83FE-8C1DC7900F1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DES", "DES\DES.csproj", "{E3C01287-32A6-4DD4-88CB-CD98B53EE95D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,12 @@ Global
 		{05ECBE51-1DF0-4AD1-83FE-8C1DC7900F1E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{05ECBE51-1DF0-4AD1-83FE-8C1DC7900F1E}.Release|x86.ActiveCfg = Release|Any CPU
 		{05ECBE51-1DF0-4AD1-83FE-8C1DC7900F1E}.Release|x86.Build.0 = Release|Any CPU
+		{E3C01287-32A6-4DD4-88CB-CD98B53EE95D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{E3C01287-32A6-4DD4-88CB-CD98B53EE95D}.Debug|x86.ActiveCfg = Debug|x86
+		{E3C01287-32A6-4DD4-88CB-CD98B53EE95D}.Debug|x86.Build.0 = Debug|x86
+		{E3C01287-32A6-4DD4-88CB-CD98B53EE95D}.Release|Any CPU.ActiveCfg = Release|x86
+		{E3C01287-32A6-4DD4-88CB-CD98B53EE95D}.Release|x86.ActiveCfg = Release|x86
+		{E3C01287-32A6-4DD4-88CB-CD98B53EE95D}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

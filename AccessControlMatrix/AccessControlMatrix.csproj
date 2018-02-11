@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{05ECBE51-1DF0-4AD1-83FE-8C1DC7900F1E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SecurityLab1</RootNamespace>
+    <RootNamespace>AccessControlMatrix</RootNamespace>
     <AssemblyName>SecurityLab1</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -30,6 +30,9 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>AccessControlMatrix.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

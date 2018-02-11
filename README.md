@@ -10,3 +10,4 @@ Orenburg State University laboratory works for InfoSec
 * BlockRSA_GUI - GUI client for encrypting strings with block RSA
 * Digital Signature - GUI app for signing files with RSACryptoServiceProvider
 * AccessControlMatrix - CLI users to files access control matrix simulator
+* DES - Project forked from [cyberforum project by VV_RIP](http://www.cyberforum.ru/csharp-net/thread1120037.html), I rebuilt it for VS2017 & added GUI
