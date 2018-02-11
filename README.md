@@ -3,14 +3,14 @@
 
 *[На русском](README.ru.md)*
 
-* MetalWorker.Cryptography - contains utility classes for
-  * Various prime number tester classes
-  * Random BigInteger generation
-  * Random BigInteger prime generation
-  * Block RSA implementation
-  * StringRSA - Block RSA wrapper for strings
-* PrimalityTests - program for testing prime numbers with various tests
-* BlockRSA_GUI - GUI client for encrypting strings with block RSA
-* Digital Signature - GUI app for signing files with RSACryptoServiceProvider
-* AccessControlMatrix - CLI users to files access control matrix simulator
-* DES - Project forked from [cyberforum project by VV_RIP](http://www.cyberforum.ru/csharp-net/thread1120037.html), I rebuilt it for VS2017 & added GUI
+* [MetalWorker.Cryptography](MetalWorker.Cryptography) - contains utility classes for
+  * Various [prime number tester classes](MetalWorker.Cryptography/PrimalityTesters)
+  * [Random BigInteger generation](MetalWorker.Cryptography/RNGExtensions.cs)
+  * [Random BigInteger prime generation](MetalWorker.Cryptography/Primes.cs)
+  * [Block RSA implementation](MetalWorker.Cryptography/BlockRSA.cs)
+  * [StringRSA](MetalWorker.Cryptography/StringRSA.cs) - Block RSA wrapper for strings
+* [PrimalityTests](PrimalityTests) - program for testing prime numbers with various tests
+* [BlockRSA_GUI](BlockRSA_GUI) - GUI client for encrypting strings with block RSA
+* [Digital Signature](Digital signature) - GUI app for signing files with RSACryptoServiceProvider
+* [AccessControlMatrix](AccessControlMatrix) - CLI users to files access control matrix simulator
+* [DES](DES) - Project forked from [cyberforum project by VV_RIP](http://www.cyberforum.ru/csharp-net/thread1120037.html), I rebuilt it for VS2017 & added GUI
